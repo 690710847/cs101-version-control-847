@@ -1,1 +1,5 @@
-# cs101-version-control-847
+# My CS Profile
+
+## About Me
+- Name : Phanchanisa Arjsalee
+- Major : Computer Science
